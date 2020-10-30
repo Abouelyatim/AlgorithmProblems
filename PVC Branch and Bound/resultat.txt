@@ -1,0 +1,13 @@
+graph 10 sommets:
+
+	cout	 nb iterration	taille pile
+DFS: 	119	986410		37
+BB h=0 	119	1227		3937
+BB h!=0	119	618		2315
+
+graph 12 sommets:
+
+	cout	 nb iterration	taille pile
+DFS: 	55	108505112	56
+BB h=0 	55	2439		8748
+BB h!=0	55	1514		6191

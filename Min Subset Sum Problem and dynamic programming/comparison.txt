@@ -1,0 +1,21 @@
+1)recursif:
+sum=16
+25 element : 1404ms
+26 element : 2527ms
+27 element :  4929ms
+28 element : 8764ms
+29 element : 18564 ms
+30 element : 34834ms
+
+1)dynamique prog
+sum=16
+25 element : 0ms
+---------------------------
+sum=999
+500 element : 15 ms
+10000 element : 1343 ms
+---------------------------
+sum=3500
+9999 element : 1513 ms
+---------------------------
+10000element : 15 ms
